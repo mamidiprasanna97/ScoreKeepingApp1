@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="A">SCOREKEEPINGAPP</string>
+    <string name="B">TEAM-A</string>
+    <string name="SCORE">+</string>
+    <string name="SCORE1">-</string>
+    <string name="SCOREB">SCORE</string>
+    <string name="SCOREINC">+</string>
+    <string name="SCOREDECREASE">-</string>
+    <string name="SCOREA">SCORE</string>
+    <string name="TEAMB">TEAMB</string>
+</resources>
